@@ -19,8 +19,8 @@ Here are the features I'll be collecting, and an explanation of why:
 
 | Age      		| Location      | # of Youtube followers| Categories/Topics | # video views |
 | ------------- | -------------:| ---------------------:| -----------------:| ------------:
-|  47 		| 	Hollywood, CA		|     4.7 Million            	|  comedy, diy				|  856,802,502        |
-| 33      		| Roseville, CA     	    |  4.3 Million					| diys, hair, hairstyles,  makeup				| 229,946,779 		  | 
+|  47 		| 	Hollywood, CA		|     4.7 Million            	|  Comedy, diys				|  856,802,502        |
+| 33      		| Roseville, CA     	    |  4.3 Million					| Diys, hair, hairstyles,  makeup				| 229,946,779 		  | 
 | 32 			| Los Angeles, CA      		| 2.7 Million					| Beauty                | 311,235,433         |
 | 23 			| Los Angeles, CA     		| 2.1 Million					| Hair, fashion, lifestyle, beauty                | 162,929,469         |
 | 26 			| Los Angeles, CA     		| 1.9 Million 					|    Beauty            | 117,452,250          |
