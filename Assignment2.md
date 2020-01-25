@@ -19,7 +19,7 @@ Here are the features I'll be collecting, and an explanation of why:
 
 <p>I will collect data from the top black women youtubers, gathering information from their youtube and other social channels, and reading articles about black social media influencers, along with reading influencer marketing studies. </p>
 
-| Age      		| Location      | # of Youtube followers| Categories/Topics | # video views |
+| Age      		| Location      | # of Youtube followers| Categories/Topics | # Video views |
 | ------------- | -------------:| ---------------------:| -----------------:| ------------:
 |  47 		| 	Hollywood, CA		|     4.7 Million            	|  Comedy, diys				|  856,802,502        |
 | 33      		| Roseville, CA     	    |  4.3 Million					| Diys, hair, beauty				| 229,946,779 		  | 
