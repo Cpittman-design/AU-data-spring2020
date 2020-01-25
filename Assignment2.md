@@ -17,9 +17,9 @@ Here are the features I'll be collecting, and an explanation of why:
 
 <p>I will collect data from watching black women youtubers, collecting information from their social channels, and reading articles about black social media influencers, along with reading influencer marketing studies. </p>
 
-| Age      		| Location      | # of Youtube followers| Categories/Topics | # of videos |
+| Age      		| Location      | # of Youtube followers| Categories/Topics | # video views |
 | ------------- | -------------:| ---------------------:| -----------------:| ------------:
-| tk      		| tk 			| tk                	| tk 				| tk          |
+|  47 		| 	Hollywood California		|     4.7 Million            	|  comedy				|  856,802,502        |
 | tk      		| tk     	    | tk 					| tk 				| tk 		  | 
 | tk 			| tk      		| tk					| tk                | tk          |
 | tk 			| tk      		| tk					| tk                | tk          |
