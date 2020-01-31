@@ -7,9 +7,9 @@ In order to find my story, I did the following:
 * Selected the top 3 candidates with the largest contributions. 
 * Exported a CSV file of each candidate individual contributions.
 * For the CVS files, I:
-	*Filtered the “contributor_state” by each state 
-	*Calculated the “contributor_aggregate_ytd” to get the total amount of contributions by each state.
-	*Compared findings
+	* Filtered the “contributor_state” by each state 
+	* Calculated the “contributor_aggregate_ytd” to get the total amount of contributions by each state.
+	* Compared findings
 
 ## Hed:
 After 24 years of leaving Congress, Marylanders still favor Kweisi Mfume for its 7th congressional district representative. 
