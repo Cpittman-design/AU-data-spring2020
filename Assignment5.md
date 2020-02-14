@@ -4,7 +4,7 @@
  
 <p>To do this, I will use data from the census-derived datasets, which is used to distribute federal funds, as well as data from enrolled students at American university campus, along with pew research data census reports.</p>
  
-<p>I could visualize the demographic of participants and non-participants from the Census reports, as well as the total number of students at American University, more particularly those who live on-campus.</p>
+<p>I could visualize the demographics of participants and non-participants from the Census reports, as well as the total number of students at American University, more particularly those who live on-campus.</p>
  
 <p>This is timely because of the upcoming 2020 census report and the efforts colleges across the country are pushing because the census results could help to determine how much federal funding they will receive over the next 10 years.</p>
  
