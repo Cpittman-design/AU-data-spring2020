@@ -54,7 +54,7 @@ For D.C., the federal government uses census data to allocate annually more than
 
 In 2010, about 13% of 18 to 24-year-olds made up the D.C. population. Amongst that group there were about 37,023 males and 44,830 females. Within the last 10 years, both the female and male population has decreased as D.C’s general population has grown. In 2019, D.C saw its lowest population rate for 18 to 24-year-olds, making up only 8.5% of its population.
 
-The data of college-aged people (18-24) has changed over time. In the 2000 and 2010 census, there was a net over-count in these age groups. However, in earlier census data, there was a net under-count for this age group as well. This group also had a relatively high omission rates(https://link.springer.com/content/pdf/10.1007%2F978-3-030-10973-8_5.pdf) in which it may not be counted at all for several factors being. 
+The data of college-aged people (18-24) has changed over time. In the 2000 and 2010 census, there was a net over-count in these age groups. However, in earlier census data, there was a net under-count for this age group as well. This group also had a relatively [high omission rates](https://link.springer.com/content/pdf/10.1007%2F978-3-030-10973-8_5.pdf) in which it may not be counted at all for several factors being. 
 
 People aged 18 to 24 are over-represented in both groups. They are just hard to count. 
 
