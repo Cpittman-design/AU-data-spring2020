@@ -15,7 +15,7 @@ There are several concerns about whether the 2020 census report will under-count
 
 As the district continues to grow, it makes it hard to accurately count all residents. Since the 2010 census report, D.C.’s population from [2010 to 2019](http://worldpopulationreview.com/states/district-of-columbia-population/#population-data) has grown by 106,486. The District’s population has made more than a 7.5% increase since the 2010 census. However, for every increase of 100,000 in D. C’s. population, the growth rate decreases by about 8,540 residents.
 
-(Chart)
+(Chart- CP_Final_DV2)
 
 Ensuring an accurate count helps federal funding. It is the main source of higher education. The funds will go to students at public, private and for-profit colleges and researchers at public and private universities.
 
@@ -51,7 +51,7 @@ For D.C., the federal government uses census data to allocate annually more than
 
 ## Hard-to-Count Population
 
-(Chart)
+(Chart - CP_Final_DV1)
 
 In 2010, about 13% of 18 to 24-year-olds made up the D.C. population. Amongst that group there were about 37,023 males and 44,830 females. Within the last 10 years, both the female and male population has decreased as D.C’s general population has grown. In 2019, D.C saw its lowest population rate for 18 to 24-year-olds, making up only 8.5% of its population.
 
