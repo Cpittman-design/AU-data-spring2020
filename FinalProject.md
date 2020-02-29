@@ -63,7 +63,7 @@ Even though we’ve seen these numbers decrease in D.C., as the general populati
 
 The last census in 2010 found that over 2.5 million students live in dorms or on-campus fraternity or sorority houses, according to a recent reporting from [The Associated Press](https://apnews.com/7006e5c25ab67785d36cf55b862c5613).
 
-(Chart)
+(Chart - CP_Final_DV3)
 
 Between [2010-2015](https://nces.ed.gov/programs/digest/d16/tables/dt16_304.10.asp?current=yes), about 13-15% of the D.C. population enrolled in college. During the 2010 census report, 91,992 students were counted for. 
 
